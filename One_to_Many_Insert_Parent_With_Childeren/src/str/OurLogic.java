@@ -64,6 +64,6 @@ public class OurLogic {
 		    factory.close();
 		             
 		             
-		System.out.println("kykjyukiu");
+		//System.out.println("kykjyukiu");
 	}
 }

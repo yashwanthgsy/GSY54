@@ -62,7 +62,7 @@ public class OurLogic {
 		    session.close();
 		    System.out.println("One To Many is Done..!!");
 		    factory.close();
-		             
+		    System.out.println("kkjhihggd");        
 		             
 		//System.out.println("kykjyukiu");
 	}
